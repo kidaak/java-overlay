@@ -2,7 +2,7 @@
 <!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
 <repositories xmlns="" version="1.0">
   <repo quality="experimental" status="unofficial">
-    <name>tox-overlay</name>
+    <name>my-java-overlay</name>
     <description lang="en">Gentoo overlay for Java, forked from mainline.</description>
     <homepage>https://github.com/lvlnd/java-overlay</homepage>
     <owner type="person">
